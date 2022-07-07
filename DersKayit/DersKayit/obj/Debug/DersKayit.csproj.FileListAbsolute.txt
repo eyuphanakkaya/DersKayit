@@ -1,0 +1,11 @@
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\bin\Debug\DersKayit.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\bin\Debug\DersKayit.exe
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\bin\Debug\DersKayit.pdb
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\obj\Debug\DersKayit.csproj.AssemblyReference.cache
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\obj\Debug\DersKayit.Properties.Resources.resources
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\obj\Debug\DersKayit.csproj.GenerateResource.cache
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\obj\Debug\DersKayit.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\obj\Debug\DersKayit.exe
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\obj\Debug\DersKayit.pdb
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\obj\Debug\DersKayit.FrmOgrenci.resources
+C:\Users\Eyüphan Akkaya\Desktop\Projeler\DersKayit\DersKayit\obj\Debug\DersKayit.FrmDers.resources
